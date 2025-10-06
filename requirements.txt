@@ -1,5 +1,4 @@
 flask
 flask-socketio
-requests
 eventlet
-gunicorn
+requests
